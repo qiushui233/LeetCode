@@ -37,6 +37,12 @@
 [053](https://github.com/qiushui233/LeetCode/blob/master/src/Leetcode/leet053.java)
  给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。
 
+[058](https://github.com/qiushui233/LeetCode/blob/master/src/Leetcode/leet058.java)
+给定一个仅包含大小写字母和空格 ' ' 的字符串，返回其最后一个单词的长度。
+
+[066](https://github.com/qiushui233/LeetCode/blob/master/src/Leetcode/leet066.java)
+给定一个由整数组成的非空数组所表示的非负整数，在该数的基础上加一。
+
 [206](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet206.java)
 反转一个单链表。
 
