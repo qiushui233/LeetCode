@@ -43,6 +43,9 @@
 [066](https://github.com/qiushui233/LeetCode/blob/master/src/Leetcode/leet066.java)
 给定一个由整数组成的非空数组所表示的非负整数，在该数的基础上加一。
 
+[067](https://github.com/qiushui233/LeetCode/blob/master/src/Leetcode/leet067.java)
+给定两个二进制字符串，返回他们的和（用二进制表示）
+
 [206](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet206.java)
 反转一个单链表。
 
